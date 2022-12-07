@@ -42,4 +42,4 @@ function countDown() {
     }
 }
 
-let timerId = setInterval(countDown, 1000)
+let timerId = setInterval(countDown, 1000) 
